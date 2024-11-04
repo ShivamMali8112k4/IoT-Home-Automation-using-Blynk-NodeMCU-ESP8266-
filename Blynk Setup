@@ -1,0 +1,12 @@
+Download Blynk App from app store/play store.
+login blynk with your credential.
+Go to Creat Project.
+Give prject name="Home Automation".
+Chose a Device"NodeMCU".
+give the connection type to"WiFi"
+
+Ater that tha go to the project
+Next go to Widget Box Select "Button widget" And add button you needed.
+Go to each button widget And give settings you needed.
+
+Done Now upload code and check it's working. 
