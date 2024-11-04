@@ -1,6 +1,7 @@
 # IoT-Home-Automation-using-Blynk-NodeMCU-ESP8266-
 
 # compnent Needed
+
 S.N.   Components Name                                    Quantity 
 1       NodeMCU ESP8266                                       1 
 2       Relay 5V                                              4  
