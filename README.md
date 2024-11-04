@@ -17,5 +17,4 @@
 # Connection's
 
 Relay 1  to D6.
-
 Relay 2  to D2.
