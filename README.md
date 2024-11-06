@@ -27,3 +27,6 @@ Relay 2  to D2.
 Relay 3  to D1.
 
 Relay 4  to D5.
+
+#Working Principle 
+This system is based on Wi-Fi signals and communication takes place over a particular bandwidth of the Wi-Fi. The system takes into usage a Wi-Fi technology thus it provides universal access to the system for automated control of appliance.
